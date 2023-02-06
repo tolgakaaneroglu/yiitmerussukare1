@@ -370,7 +370,7 @@ a:hover {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: #000000;
 }
 
 #preloader:before {
@@ -1222,7 +1222,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: #000000;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1467,7 +1467,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #000000;
 }
 
 footer .copyright {
